@@ -13,3 +13,7 @@ Semester long project completed at The George Washington University, School of B
 - **Primary Purpose**: This project served as an opportunity to showcase and apply a variety of technical techniques, in data analytics, data mining, and machine learning, to improve the business operations of a theoretical company. Please see *report* for detailed Problem Statement, Data Selection, Data Pre-Processing, Mining Selection Techniques, and Data Mining Results.
 - **Intended users**: Professor Srinivas Prasad and classmates.
 - **Out-of-scope use cases**: Any use beyond GWU DNSC 4279, as an educational piece, and as a body of work to compliment and support my resume, is out-of-scope.
+
+## Data
+- **Source of data for training and validation**: Please see *telco_churn.csv* under the *data* subfolder.
+- **Source of data for testing**: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
