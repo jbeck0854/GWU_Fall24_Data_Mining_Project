@@ -1,0 +1,1 @@
+*project_presentation.pdf* contains the key insights, graphs, charts, metrics, and proposed recommendation and strategy derived from the cumulative data mining tasks. The file is structured as a presentation/pitch to the company shareholders.
